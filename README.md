@@ -1,1 +1,1 @@
-# Data_Structure_C
+this is my collection of code during learning data structure in c language.
